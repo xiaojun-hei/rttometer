@@ -1,0 +1,15 @@
+Extracted from rttometer.c:
+
+/*
+ * Revision history:
+ *
+ *  Version 0.2 (2003-09-20)
+ *
+ *     Cleaned some code.
+ *     Enhanced C regions calculation.
+ *
+ *  Version 0.1 (2003-03-12)
+ *
+ *      Initial Release.
+ */
+
